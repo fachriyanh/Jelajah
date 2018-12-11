@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75874253519",
+    "firebase_url": "https://jelajah-5cb91.firebaseio.com",
+    "project_id": "jelajah-5cb91",
+    "storage_bucket": "jelajah-5cb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75874253519:android:d49c650ed5c2c559",
+        "android_client_info": {
+          "package_name": "tabian.com.instagramclone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75874253519-0b6mqmbbruh8nrs0qdl2ah4363si05d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.instagramclone2",
+            "certificate_hash": "c513423f07ea9376c538b9a0c8a3eee0656fe3b0"
+          }
+        },
+        {
+          "client_id": "75874253519-h4n4nihf03s3tgab31citk8472trkont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5hsXt8rxQHNWDhWEXl3VGUUKtEz3JJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75874253519-h4n4nihf03s3tgab31citk8472trkont.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
