@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img class='header-img' src='https://s3.amazonaws.com/codingwithmitch-static-and-media/media/instagram-clone/images/Instagram.png' />
 
 <h1>Android Instagram Clone Course</h1>
@@ -209,3 +210,6 @@ In the course we'll be using:
 <li>End?!</li>
 </ol>
 
+=======
+# Jelajah.id
+>>>>>>> 935794141b16c1ac9844ef8ba85f157195b31489
